@@ -16,4 +16,5 @@ Usa este comando para levantar la aplicacion y verla en tu browser
 
 ## Version terminada
 
-Para ayudarte puedes hechar un vistazo a la <a src="https://github.com/alejorrojas/-blockchain-campus-party-solution">version terminada</a>
+- Para ayudarte puedes hechar un vistazo a la <a href="https://github.com/alejorrojas/-blockchain-campus-party-solution">version terminada</a>
+- Links utiles: https://bio.site/alejorrojas
