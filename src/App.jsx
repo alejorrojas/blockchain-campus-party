@@ -10,8 +10,6 @@ function App() {
   
   return (
     <div className="App">
-      <img src='/token.png'/>
-      <img src='/react.svg'/>
     </div>
   )
 }
