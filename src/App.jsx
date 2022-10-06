@@ -1,8 +1,5 @@
 import { useState } from 'react'
-import { ethers } from "ethers"
-import { contractAddress } from "../contracts/utils"
-import  contractABI  from "../contracts/contract_abi.json"
-
+import Form from './Form'
 
 
 
